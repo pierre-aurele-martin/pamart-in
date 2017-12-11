@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {:.figure}
-![alt text]({{ site.url }}/assets/img/portrait.jpg "Logo Title Text 1")
+![Portrait of me]({{ site.url }}/assets/img/portrait.jpg "Cause you gotta feed the ego")
 
 >I solve problems, elegantly.  
 >Digital, Coding, E-business, Partage
