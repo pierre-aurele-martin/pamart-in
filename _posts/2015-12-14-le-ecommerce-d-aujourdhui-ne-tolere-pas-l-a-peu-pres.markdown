@@ -8,10 +8,10 @@ categories: frenchweb
 [Tribune publiée sur Frenchweb](http://www.frenchweb.fr/le-emf-commerce-daujourdhui-ne-tolere-pas-la-peu-pres-meme-lorsque-lon-sappelle-auchan/217981)  
 
 {:.img-full-width}
-![Le e/m/f-commerce d’aujourd’hui, ne tolère pas l’à peu près, même lorsque l’on s’appelle Auchan]({{ site.url }}/assets/img/frenchweb/visuel_emploi_jour_carrefour-500x261.jpg)
+![Le e/m/f-commerce d’aujourd’hui, ne tolère pas l’à peu près, même lorsque l’on s’appelle Auchan]({{ site.url }}/assets/img/frenchweb/visuel_emploi_jour_carrefour-500x261.png)
 
 Aushopping.com est le nouveau centre commercial digital de Immochan, la foncière du groupe Auchan. Cette dernière gère 96 centres commerciaux en France, 375 dans le monde, et fait face, comme ses concurrents, à une baisse de leurs fréquentations. Si les hypermarchés du groupe s’en sortent plutôt bien, c’est en revanche plus compliqué pour les locataires de ses centres commerciaux qui louent à prix d’or leurs surfaces commerciales.
-
+<!--more-->
 Immochan s’attache donc depuis de nombreuses années à endiguer cette baisse de fréquentation. D’abord avec un centre commercial 3D en 2010 dont le seul mérite fût d’exister et désormais avec une nouvelle version de Aushopping.com, lancée discrètement en avril 2015.
 
 Le principe de Aushopping est simple, proposer une plateforme Web to store aux 400 enseignes présentes dans ses centres commerciaux. L’intention est louable et jusqu’ici, cela semble une excellente idée. Le projet Aushopping, présente néanmoins quelques erreurs de jeunesse. Il permet aussi de constater que le déploiement de Web to Store à une échelle nationale soulève des problématiques aussi passionnantes que complexe.

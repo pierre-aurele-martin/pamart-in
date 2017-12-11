@@ -13,6 +13,8 @@ categories: frenchweb
 
 La grande distribution a longtemps été à la traine. Les grandes surfaces n’ont pas vu venir le e-commerce et ce sont rendues compte un peu tard que les habitudes de consommation allaient changer durablement. Heureusement, nous parlons ici d’une industrie solide de plus de 600 milliards d’euros de chiffre d’affaires annuel en Europe qui s’est finalement remise en question, avec succès.
 
+<!--more-->
+
 Nous sommes à la fin des années 90, eBay et Amazon explosent en Bourse, Auchan et Carrefour lancent leurs sites de vente en ligne. Cinq ans de retard au bas mot qui ne seront jamais rattrapé. Trop occupé à mener le combat sur le terrain du hard-discount venu d’Allemagne, la grande distribution française se contente de maintenir une présence minimale sur la toile. En 2008, des sites tel que Ooshop.com ou Auchandirect.fr ne sont pas les vecteurs de croissances attendus pour deux raisons :
 
 Aucune grande surface n’a résolu le problème du dernier kilomètre sur les livraisons alimentaires et produits frais ;

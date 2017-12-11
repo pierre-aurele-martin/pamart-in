@@ -3,6 +3,7 @@ layout: post
 title:  "Le modèle Amazon Go peut-il se généraliser à d’autres enseignes?"
 date:   2017-01-17 09:42:44 +0100
 categories: frenchweb
+thumb: /assets/img/frenchweb/amazon-go-500x261.jpg
 ---
 
 [Tribune publiée sur Frenchweb](http://www.frenchweb.fr/le-modele-amazon-go-peut-il-se-generaliser-a-dautres-enseignes-2/274617)  
@@ -11,6 +12,8 @@ categories: frenchweb
 ![Le modèle Amazon Go peut-il se généraliser à d’autres enseignes?]({{ site.url }}/assets/img/frenchweb/amazon-go-500x261.jpg)
 
 Amazon GO, la boutique du futur qui continue de faire couler beaucoup d’encres ces dernières semaines. 6,9 millions de vues sur YouTube et dont tout le monde a parlé au moins une fois sur son lieu de travail. Il faut reconnaître ça à Amazon, ils ont l’art de faire parler. Dans ce court article, essayons de comprendre le modèle d’Amazon Go et de répondre à une question: les magasins sans files d’attentes ni caisses vont-ils se démocratiser rapidement?
+
+<!--more-->
 
 ## Technologiquement, le grand inconnu…
 Le principe d’Amazon Go est relativement simple à énoncer. Vous installez l’application Amazon Go qui vous permettra de vous identifier à l’entrée du magasin via un QR-code. Il suffit ensuite de prendre les produits qui vous intéressent, de les mettre où bon vous semble puis de sortir du magasin pour être automatiquement débité, facture à l’appui. C’est magique et comme tout bon magicien, Amazon ne révèle pas son secret. Nous aurons simplement le droit de savoir que la technologie «Just Walk Out» utilise les «Computer Vision, Deep learning algorythms, sensor fusion». Bla bla bla, ça ne dit pas grand-chose. La vision d’ordinateur? Aucune idée mais on imagine des caméras.

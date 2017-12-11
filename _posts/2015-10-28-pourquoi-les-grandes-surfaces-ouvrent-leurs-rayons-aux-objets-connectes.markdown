@@ -8,10 +8,10 @@ categories: frenchweb
 [Tribune publiée sur Frenchweb](http://www.frenchweb.fr/pourquoi-les-grandes-surfaces-ouvrent-leurs-rayons-a-liot/211696)  
 
 {:.img-full-width}
-![iBeacon, Web-to-Store… Comment la grande distribution affronte les pure players]({{ site.url }}/assets/img/frenchweb/logo_auchan.png.jpg)
+![iBeacon, Web-to-Store… Comment la grande distribution affronte les pure players]({{ site.url }}/assets/img/frenchweb/logo_auchan.png)
 
 Les start-up françaises de l’IoT se sont lancées dans la grande distribution avec la «Charte d’engagement pour les enseignes de distribution». Mais se jeter dans le grand bain pour ces start-up n’est pas une affaire gagnée d’avance. Nous allons le voir, après avoir observé l’impact de cette charte pour les start-up dans une première partie, son intérêt reste aussi relativement faible pour la grande distribution. Nous devons donc présager du meilleur.
-
+<!--more-->
 ## Une charte n’est pas un contrat
 A la lecture de cette charte, un constat s’impose : elle ne présente que peu de contraintes pour les distributeurs. Il est de toute façon difficile d’imposer des contraintes aux plus gros employeurs privés de France, l’objectif n’était donc pas ici.
 

@@ -13,7 +13,7 @@ categories: frenchweb
 
 ## Des données click’n’brick
 Qu’est-ce qui coûte 250 000 euros, puis rapporte au moins le double chaque année d’exploitation ? Les magasins «bricks» de Spartoo qui, il y a exactement un an, ont pris le contrepied de nombreux pure-players. Avec un objectif de 100 ouvertures d’ici à 2020, Boris Saragaglia, le fondateur de Spartoo, espère passer le chiffre d’affaires de 140 à 300 millions d’euros. Si Spartoo poursuit le rythme des ouvertures «click’n’brick», cela semble plus qu’accessible.
-
+<!--more-->
 Quelle est alors l’innovation qui a rendu ces magasins si rentables ? Bien sûr, vous y retrouvez tout l’attirail du point de vente connecté, de la tablette du vendeur aux codes QR des produits. Plus intéressant, une segmentation par zone géographique permet de définir l’assortiment du magasin en fonction des données collectés sur Internet. 
 
 Spartoo compte, avec la marketplace, plus de 250 000 modèles qui sont donc impossibles à présenter dans une boutique de 100 m². Il est donc très pertinent et intelligent d’actualiser régulièrement son réassort magasin en fonction des produits les plus vus et vendus online. Et si vous voulez un produit non disponible, vous le trouverez sur l’écran géant du magasin en achat online livré ou click’n’collect.

@@ -11,7 +11,7 @@ categories: frenchweb
 ![Pourquoi les start-up de l’IoT n’ont pas encore remporté la bataille des hypermarchés]({{ site.url }}/assets/img/frenchweb/mobile-rayon-lineaire-supermarche-500x261.jpg)
 
 La Secrétaire d’Etat au Numérique s’est à juste titre félicitée sur Twitter de la signature avec les enseignes de la grande distribution en faveur des objets connectés français. Les enseignes se sont engagées à vendre sur leurs étals les objets connectés produits par les sociétés de la French Tech. Dans la presse, les titres flatteurs n’ont pas manqué: «Les objets connectés forcent la porte des grands magasins» «Quand la grande distribution soutient la French Tech», «Huit distributeurs signent une charte pour distribuer les objets connectés de la French Tech»
-
+<!--more-->
 Faut-il se réjouir de cette «Charte d’engagement pour les enseignes de distribution»? Evidemment, c’est une bonne nouvelle et un pas en avant pour la FrenchTech. Cela n’empêche pas de lire la charte – une fois que l’on a réussi à la trouver– pour voir de quoi il retourne exactement.
 
 ## Côté Start-up, un marché de 10 millions de consommateurs

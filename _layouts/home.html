@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts and more</h1>
+  <h1 class="page-heading">Welcome to Pierre Aurele's stuff ;) Enjoy !</h1>
   
   {{ content }}
 
@@ -17,6 +17,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+
+        {{ post.excerpt }} 
+
       </li>
     {% endfor %}
   </ul>
