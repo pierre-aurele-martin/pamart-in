@@ -6,6 +6,11 @@ p.figure > img {
   border-radius: 5em;
 }
 
+.post-list > li > p.img-full-width > img {
+  width: 100%;
+  max-width: 560px;
+}
+
 p.img-full-width > img {
   width: 100%;
 }
